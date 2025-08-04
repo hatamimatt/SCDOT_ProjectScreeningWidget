@@ -1,0 +1,19 @@
+{
+  "name": "screening-pst",
+  "label": "Screening PST",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.10.0",
+  "author": "University of South Carolina",
+  "description": "Screening PST Widget.",
+  "properties": {
+    "hasSettingPage": true
+  },
+  "useMapWidget": true,
+  "supportsMapWidget": true,
+  "translatedLocales": ["en"],
+  "defaultSize": {
+    "width": 600,
+    "height": 400
+  }
+}
